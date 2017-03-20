@@ -5,7 +5,7 @@ Tools for interacting with monero.
 ## Wallet Generator
 
 Download:
-Coming soon
+https://github.com/iancoleman/monero-toolkit/raw/29c015e9388a1c1e33ca09bdb723315dc67fe1a5/wallet-generate.html
 
 Github Repository:
 https://github.com/moneromooo-monero/monero-wallet-generator
@@ -16,7 +16,7 @@ https://github.com/moneromooo-monero/monero-wallet-generator/commit/c04a4e872bd5
 ## Wallet Verifier
 
 Download:
-Coming soon
+https://github.com/iancoleman/monero-toolkit/raw/29c015e9388a1c1e33ca09bdb723315dc67fe1a5/wallet-verify.html
 
 Github Repository:
 https://github.com/luigi1111/xmr.llcoins.net
